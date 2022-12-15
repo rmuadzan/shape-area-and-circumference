@@ -1,0 +1,18 @@
+---
+Alas = 10.00
+Sisi kaki = 15.00
+Tinggi = 20.00
+Luas = 100.00
+Keliling = 40.00
+---
+Alas = 40.00
+Sisi kaki = 45.00
+Tinggi = 50.00
+Luas = 1000.00
+Keliling = 130.00
+---
+Alas = 10.00
+Sisi kaki = 15.00
+Tinggi = 20.00
+Luas = 100.00
+Keliling = 40.00

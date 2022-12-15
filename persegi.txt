@@ -1,0 +1,28 @@
+---
+Sisi = 20.00
+Luas = 400.00
+Keliling = 80.00
+---
+Sisi = 15.00
+Luas = 225.00
+Keliling = 60.00
+---
+Sisi = 20.00
+Luas = 400.00
+Keliling = 80.00
+---
+Sisi = 20.00
+Luas = 400.00
+Keliling = 80.00
+---
+Sisi = 20.00
+Luas = 400.00
+Keliling = 80.00
+---
+Sisi = 20.00
+Luas = 400.00
+Keliling = 80.00
+---
+Sisi = 20.00
+Luas = 400.00
+Keliling = 80.00

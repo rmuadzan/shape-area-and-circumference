@@ -1,0 +1,25 @@
+---
+Alas = 20.00
+Tinggi = 25.00
+Luas = 250.00
+Keliling = 60.00
+---
+Alas = 25.00
+Tinggi = 40.00
+Luas = 500.00
+Keliling = 75.00
+---
+Alas = 20.00
+Tinggi = 25.00
+Luas = 250.00
+Keliling = 60.00
+---
+Alas = 20.00
+Tinggi = 25.00
+Luas = 250.00
+Keliling = 60.00
+---
+Alas = 20.00
+Tinggi = 15.00
+Luas = 150.00
+Keliling = 60.00

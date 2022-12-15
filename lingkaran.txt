@@ -1,0 +1,8 @@
+---
+Radius = 10.00
+Luas = 314.00
+Keliling = 62.80
+---
+Radius = 15.00
+Luas = 706.50
+Keliling = 94.20
